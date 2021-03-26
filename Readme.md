@@ -1,5 +1,5 @@
 # Tetris
-Старая добрая игра, [если хочешь сыграть](https://6akee.github.io/tetris-game/):)
+Старая добрая игра, если хочешь сыграть [то сюда](https://6akee.github.io/tetris-game/):)
 
 <h2>Technologies Used</h2>
 
