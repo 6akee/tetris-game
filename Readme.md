@@ -10,5 +10,6 @@
 * GitHub
 * Google Fonts
 
-![Tetris]  (https://github.com/6akee/tetris-game/blob/main/images/tetris.logo.png)
+![Tetris](https://github.com/6akee/tetris-game/blob/main/images/tetris.logo.png)
+
 
